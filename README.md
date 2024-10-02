@@ -8,7 +8,7 @@ proyectos y mis intereses.
 * [Intereses](#intereses)
 
 ## Información personal
-* Nombre: Carlos Flores
+* Nombre: Carlos Flores González
 * Ocupación: Estudiante
 * Lugar de residencia: Daule
 * Sitio web: Darloscode
