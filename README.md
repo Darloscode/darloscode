@@ -34,7 +34,7 @@
   - Página web que permite a los usuarios registrarte e iniciar sesión. El proyecto valida los datos ingresados tanto en el login y sign uo. Los datos registrados se guardan en una base de datos.
   - Tecnología: Visual Stuio Code, HTML, CSS, JavaScript, PHP, MySQL, MySQL Workbench
   - Estado: Completo
-  - [Repositorio](https://github.com/Darloscode/login_signup){:target="_blank"} | [Sitio Web](https://github.com/Darloscode/login_signup){:target="_blank"}
+  - [Repositorio](https://github.com/Darloscode/login_signup){:target="_blank"} | [Sitio Web](https://darloscode.github.io/login_signup/){:target="_blank"}
 
 - **Landing Page de venta de autos (AutoElite)**
   - Es una Landing Page para la venta de autos, llamada AutoElite, diseñada para ofrecer una experiencia de compra intuitiva y atractiva.
