@@ -29,29 +29,31 @@
 
 * **Desarrollo Backend:** Me interesa el diseño y desarrollo de aplicaciones del lado del servidor, implementando lógica eficiente y gestionando bases de datos para aplicaciones modernas.
 
-## Proyectos 🧑🏻‍💻
+## Proyectos 💻
 - **Página web de Login y Sign up** 
   - Página web que permite a los usuarios registrarte e iniciar sesión. El proyecto valida los datos ingresados tanto en el login y sign uo. Los datos registrados se guardan en una base de datos.
   - Tecnología: Visual Stuio Code, HTML, CSS, JavaScript, PHP, MySQL, MySQL Workbench
+  - Estado: Completo
   - [Repositorio](https://github.com/Darloscode/login_signup) | [Sitio Web](https://github.com/Darloscode/login_signup)
 
 - **Landing Page de venta de autos (AutoElite)**
-  - Prototipo de un landing page de ventas de autos.
+  - Es una Landing Page para la venta de autos, llamada AutoElite, diseñada para ofrecer una experiencia de compra intuitiva y atractiva.
   - Tecnología: Visual Stuio Code, HTML, CSS, JavaScript, Firebase
+  - Estado: Completo
   - [Repositorio](https://github.com/Darloscode/landing) | [Sitio Web](https://darloscode.github.io/landing/)
 
-- **Juego de tres en raya**
-  - [Repositorio](https://github.com/robtrivi/landing) | [Sitio Web](https://cmcec.com)
+- **Dashboard sobre el clima**
+  - Dashboard interactivo que proporciona información actualizada sobre las condiciones climáticas de diferentes ubicaciones. 
+  - Tecnología: Visual Stuio Code, HTML, CSS, JavaScript, React
+  - Estado: En proceso
+  - [Repositorio](https://github.com/Darloscode/dashboard) | [Sitio Web](https://darloscode.github.io/dashboard)
 
 - **Galería de Fotos**
-  - [Repositorio](https://github.com/robtrivi/landing) | [Sitio Web](https://cmcec.com)
+  - Es una aplicación de Galería de Fotos creada con Java y JavaFX, diseñada para gestionar y visualizar imágenes de manera fácil e interactiva. La aplicación permite a los usuarios crear álbumes, agregar fotos a dichos álbumes, así como borrar fotos.
+  - Tecnología: NetBeans, Java
+  - Estado: Completo
+  - [Repositorio](https://github.com/Darloscode/Project-Photo-Gallery)
 
-
-* Juego de tres en raya: se usó Java y estructuras de datos (árboles)
-* Pagina web de sign up y sign in: Se usó php, html, javaScript, css, base de datos
-* Aplicación movil para guardar contactos: Se usó Java y estructuras de datos (Listas)
-* Aplicación de galeria de fotos: Se usó JavaFx, programación orientada a objetos
-  
 ## Tecnologías y Habilidades 🤖
 * **Frameworks y librerías:** React, NumPy, JavaFX, SQLAlchemy
 * **Herramientas y plataformas:** Git, Visual Studio Code, Figma, MySQL Workbench, NetBeans
@@ -78,13 +80,13 @@
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
 </p>
 
-## Contacto
+## Contacto 🤝
 <p align="left">
 <a href="https://github.com/Darloscode" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40"/> </a>
 <a href="https://www.linkedin.com/in/-flores-gonz%C3%A1lez-652048222/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/> </a>
 </p>
 
-## Estadísticas en GitHub
+## Estadísticas en GitHub 📊
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=darloscode&theme=dracula&show_icons=true&locale=en" alt="darloscode" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darloscode&theme=dracula" alt="darloscode" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darloscode&theme=dracula" alt="darloscode" /></p>
