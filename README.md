@@ -3,16 +3,16 @@
 ¡Hola y bienvenido! Este es mi espacio personal para compartir quién soy, los proyectos que amo desarrollar y mis pasiones profesionales. ¡Explora y no dudes en contactarme!
 
 ## Contenido 📚
-* [Información personal](#información-personal)
-* [Educación](#educación)
-* [Intereses](#intereses)
-* [Proyectos](#proyectos)
-* [Tecnologías y Habilidades](#tecnologías-y-habilidades)
-* [Intereses](#intereses)
-* [Contacto](#contacto)
-* [Estadísticas en GitHub](#estadísticas-en-gitHub)
+* [Información personal](#información-personal-)
+* [Educación](#educación-)
+* [Intereses](#intereses-)
+* [Proyectos](#proyectos-)
+* [Tecnologías y Habilidades](#tecnologías-y-habilidades-)
+* [Intereses](#intereses-)
+* [Contacto](#contacto-)
+* [Estadísticas en GitHub](#estadísticas-en-gitHub-)
 
-## Información personal 👨‍💻 👤
+## Información personal 👨‍💻
 * Nombre: Carlos Flores González
 * Ocupación: Estudiante
 * Correo institucional: carfgonz@espol.edu.ec
