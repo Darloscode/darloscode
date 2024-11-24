@@ -8,7 +8,7 @@
 * [Intereses](#intereses-)
 * [Proyectos](#proyectos-)
 * [Tecnologías y Habilidades](#tecnologías-y-habilidades-)
-* [Intereses](#intereses-)
+* [Lenguajes](#lenguajes-)
 * [Contacto](#contacto-)
 * [Estadísticas en GitHub](#estadísticas-en-gitHub-)
 
