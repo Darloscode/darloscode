@@ -10,7 +10,7 @@
 * [Tecnologías y Habilidades](#tecnologías-y-habilidades-)
 * [Lenguajes](#lenguajes-)
 * [Contacto](#contacto-)
-* [Estadísticas en GitHub](#estadísticas-en-gitHub-)
+* [Estadísticas en GitHub](#estadísticas-en-github-)
 
 ## Información personal 👨‍💻
 * Nombre: Carlos Flores González
