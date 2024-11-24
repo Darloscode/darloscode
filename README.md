@@ -34,25 +34,25 @@
   - Página web que permite a los usuarios registrarte e iniciar sesión. El proyecto valida los datos ingresados tanto en el login y sign uo. Los datos registrados se guardan en una base de datos.
   - Tecnología: Visual Stuio Code, HTML, CSS, JavaScript, PHP, MySQL, MySQL Workbench
   - Estado: Completo
-  - [Repositorio](https://github.com/Darloscode/login_signup) | [Sitio Web](https://github.com/Darloscode/login_signup)
+  - [Repositorio](https://github.com/Darloscode/login_signup){:target="_blank"} | [Sitio Web](https://github.com/Darloscode/login_signup){:target="_blank"}
 
 - **Landing Page de venta de autos (AutoElite)**
   - Es una Landing Page para la venta de autos, llamada AutoElite, diseñada para ofrecer una experiencia de compra intuitiva y atractiva.
   - Tecnología: Visual Stuio Code, HTML, CSS, JavaScript, Firebase
   - Estado: Completo
-  - [Repositorio](https://github.com/Darloscode/landing) | [Sitio Web](https://darloscode.github.io/landing/)
+  - [Repositorio](https://github.com/Darloscode/landing){:target="_blank"} | [Sitio Web](https://darloscode.github.io/landing/){:target="_blank"}
 
 - **Dashboard sobre el clima**
   - Dashboard interactivo que proporciona información actualizada sobre las condiciones climáticas de diferentes ubicaciones. 
   - Tecnología: Visual Stuio Code, HTML, CSS, JavaScript, React
   - Estado: En proceso
-  - [Repositorio](https://github.com/Darloscode/dashboard) | [Sitio Web](https://darloscode.github.io/dashboard)
+  - [Repositorio](https://github.com/Darloscode/dashboard){:target="_blank"} | [Sitio Web](https://darloscode.github.io/dashboard){:target="_blank"}
 
 - **Galería de Fotos**
   - Es una aplicación de Galería de Fotos creada con Java y JavaFX, diseñada para gestionar y visualizar imágenes de manera fácil e interactiva. La aplicación permite a los usuarios crear álbumes, agregar fotos a dichos álbumes, así como borrar fotos.
   - Tecnología: NetBeans, Java
   - Estado: Completo
-  - [Repositorio](https://github.com/Darloscode/Project-Photo-Gallery)
+  - [Repositorio](https://github.com/Darloscode/Project-Photo-Gallery){:target="_blank"}
 
 ## Tecnologías y Habilidades 🤖
 * **Frameworks y librerías:** React, NumPy, JavaFX, SQLAlchemy
