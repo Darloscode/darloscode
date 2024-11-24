@@ -52,7 +52,7 @@
   - Es una aplicación de Galería de Fotos creada con Java y JavaFX, diseñada para gestionar y visualizar imágenes de manera fácil e interactiva. La aplicación permite a los usuarios crear álbumes, agregar fotos a dichos álbumes, así como borrar fotos.
   - Tecnología: NetBeans, Java
   - Estado: Completo
-  - [Repositorio](https://github.com/Darloscode/Project-Photo-Gallery){:target="_blank"}
+  - [Repositorio](https://github.com/Darloscode/Project-Photo-Gallery){:target="_blank"} |
 
 ## Tecnologías y Habilidades 🤖
 * **Frameworks y librerías:** React, NumPy, JavaFX, SQLAlchemy
