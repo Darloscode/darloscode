@@ -87,6 +87,6 @@
 </p>
 
 ## Estadísticas en GitHub 📊
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=darloscode&theme=dracula&show_icons=true&locale=en" alt="darloscode" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darloscode&theme=dracula" alt="darloscode" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darloscode&theme=dracula" alt="darloscode" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=darloscode&theme=dracula&show_icons=true&locale=en" alt="darloscode" /> </p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darloscode&theme=dracula" alt="darloscode" /> </p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darloscode&theme=dracula" alt="darloscode" /> </p>
