@@ -41,7 +41,7 @@
   - Estado: Completo
   - [Repositorio](https://github.com/Darloscode/login_signup){:target="_blank"} | [Sitio Web](https://darloscode.github.io/login_signup/){:target="_blank"}
 
-![Galería de fotos](./imagenes/project1.jpeg)
+<img src="./imagenes/project1.jpeg" alt="Texto alternativo" width="350" height="auto">
 
 - **Landing Page de venta de autos (AutoElite)**
   - Es una Landing Page para la venta de autos, llamada AutoElite, diseñada para ofrecer una experiencia de compra intuitiva y atractiva.
