@@ -51,7 +51,75 @@
   <img src="./imagenes/project1.jpeg" alt="Login y Sign up" width="350" height="auto">
 </p>
 
-2. **Landing Page de venta de autos (AutoElite)**
+2. **Aplicación de Contactos**
+
+- Es una aplicación de escritorio desarrollada en Java utilizando JavaFX, diseñada para que cada usuario pueda gestionar su propia lista de contactos de forma sencilla e intuitiva. Para acceder a la aplicación, los usuarios deben registrarse e iniciar sesión. Cada cuenta de usuario cuenta con su propia lista de contactos, implementada mediante una estructura de datos personalizada de listas doblemente enlazadas creada específicamente para este proyecto.
+
+- Tecnologías:
+
+  - Java (JDK): Lenguaje de programación principal utilizado para la lógica de la aplicación.
+  - JavaFX: Framework de interfaz gráfica utilizado para crear una experiencia visual amigable e interactiva.
+  - Listas doblemente enlazadas personalizadas: Estructura de datos implementada manualmente para almacenar y gestionar los contactos de cada usuario.
+  - Herencia en Java: Principio de la programación orientada a objetos aplicado para organizar y reutilizar el código.
+
+- Funcionalidades principales:
+
+  - Registro e inicio de sesión de usuarios con credenciales únicas.
+  - Cada usuario cuenta con su propia lista de contactos independiente.
+  - Creación de nuevos contactos con información como nombre, número de teléfono, dirección, correo electrónico y foto.
+  - Posibilidad de marcar contactos como favoritos para acceso rápido.
+  - Edición y eliminación de contactos existentes.
+  - Interfaz gráfica intuitiva desarrollada con JavaFX para facilitar la navegación y la gestión de la información.
+
+- Estado:
+- [Repositorio](https://github.com/mfalvarezd/Contactos){:target="\_blank"}
+
+<p align="center">
+  <img src="./imagenes/project7a.png" alt="Landing Page" width="auto" height="auto">
+</p>
+
+<p align="center">
+  <img src="./imagenes/project7b.png" alt="Landing Page" width="auto" height="auto">
+</p>
+
+<p align="center">
+  <img src="./imagenes/project7c.png" alt="Landing Page" width="auto" height="auto">
+</p>
+
+3. **Juego de Tres en Raya con IA**
+
+- Es una aplicación de escritorio desarrollada en Java utilizando JavaFX, diseñada para que el usuario compita contra la máquina en una partida de tres en raya. El sistema utiliza estructuras de datos y algoritmos basados en árboles para simular y analizar todas las posibles jugadas, permitiendo que la máquina seleccione siempre la mejor opción para ganar o evitar la derrota.
+
+- Tecnologías:
+
+  - Java (JDK): Lenguaje de programación principal utilizado para implementar la lógica del juego y la interfaz.
+  - JavaFX: Framework de interfaz gráfica utilizado para crear un entorno visual interactivo donde el usuario pueda jugar de manera intuitiva.
+  - Árboles: Estructura de dato empleada para modelar las posibles jugadas del juego, analizando los movimientos futuros tanto de la máquina como del usuario.
+  - Algoritmos de búsqueda: Utilizados para recorrer el árbol de jugadas y seleccionar el movimiento óptimo.
+
+- Funcionalidades principales:
+  - Interfaz gráfica amigable que muestra el tablero de juego y permite al usuario seleccionar sus movimientos.
+  - Lógica de juego automática que analiza todas las posibilidades y elige la jugada más ventajosa para la máquina.
+  - Árbol de decisiones que modela turnos alternados entre usuario y máquina, evaluando las mejores rutas hacia la victoria.
+  - Partidas rápidas y rejugables, con posibilidad de reiniciar y volver a competir.
+
+<p align="center">
+  <img src="./imagenes/project8a.png" alt="Landing Page" width="auto" height="auto">
+</p>
+
+<p align="center">
+  <img src="./imagenes/project8b.png" alt="Landing Page" width="auto" height="auto">
+</p>
+
+<p align="center">
+  <img src="./imagenes/project8c.png" alt="Landing Page" width="auto" height="auto">
+</p>
+
+<p align="center">
+  <img src="./imagenes/project8d.png" alt="Landing Page" width="auto" height="auto">
+</p>
+
+4. **Landing Page de venta de autos (AutoElite)**
 
    - Es una Landing Page para la venta de autos, llamada AutoElite, diseñada para ofrecer una experiencia de compra intuitiva y atractiva.
    - Tecnologías:
@@ -66,7 +134,7 @@
   <img src="./imagenes/project2.jpeg" alt="Landing Page" width="auto" height="auto">
 </p>
 
-3. **Dashboard sobre el clima**
+5. **Dashboard sobre el clima**
 
    - Dashboard interactivo que proporciona información actualizada sobre las condiciones climáticas de diferentes ubicaciones.
    - Tecnologías:
@@ -79,7 +147,7 @@
   <img src="./imagenes/project3.png" alt="Dashboard" width="auto" height="auto">
 </p>
 
-4. **Galería de Fotos**
+6. **Galería de Fotos**
 
    - Es una aplicación de Galería de Fotos creada con Java y JavaFX, diseñada para gestionar y visualizar imágenes de manera fácil e interactiva. La aplicación permite a los usuarios crear álbumes, agregar fotos a dichos álbumes, así como borrar fotos.
    - Tecnologías:
@@ -91,7 +159,7 @@
 
 ![Galería de fotos](./imagenes/project4.png)
 
-5.  **Aplicación Híbrida**
+7.  **Aplicación Híbrida**
 
     - Es una aplicación híbrida desarrollada con Angular e Ionic, diseñada para ayudar a las ciudadelas a identificar y clasificar automáticamente los problemas que reportan los residentes. Los usuarios pueden subir una foto del inconveniente (como basura en el suelo o autos mal estacionados), y el sistema utiliza inteligencia artificial para clasificarlo correctamente.
       Angular: Framework frontend utilizado para construir la interfaz interactiva y modular de la aplicación.
@@ -112,7 +180,7 @@
     <img src="./imagenes/project5c.png" alt="Vista 3" width="300" />
   </p>
 
-6.  **Backend**
+8.  **Backend**
 
     - Es una aplicación web desarrollada con Django, que se conecta a una base de datos en Firebase para visualizar y analizar datos en tiempo real. La información se presenta en una plantilla web con tablas organizadas y gráficos.
     - Tecnologías:
