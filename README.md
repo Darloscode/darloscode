@@ -122,28 +122,29 @@
     <img src="./imagenes/project2.jpeg" alt="Landing Page" width="auto" height="auto">
   </p>
 
-5. **Dashboard sobre el clima**
+5.  **Dashboard sobre el clima**
 
-   - Dashboard interactivo que proporciona información actualizada sobre las condiciones climáticas de diferentes ubicaciones.
-   - Tecnologías:
-     - Visual Studio Code: Usado para codificar la interfaz y lógica del dashboard.
-     - React: Facilita el desarrollo de componentes interactivos y administra el estado del dashboard
-   - Estado: Completo
-   - [Repositorio](https://github.com/Darloscode/dashboard){:target="\_blank"} | [Sitio Web](https://darloscode.github.io/dashboard){:target="\_blank"}
+- Dashboard interactivo que proporciona información actualizada sobre las condiciones climáticas de diferentes ubicaciones.
+- Tecnologías:
+  - Visual Studio Code: Usado para codificar la interfaz y lógica del dashboard.
+  - React: Facilita el desarrollo de componentes interactivos y administra el estado del dashboard
+- Estado: Completo
+- [Repositorio](https://github.com/Darloscode/dashboard){:target="\_blank"} | [Sitio Web](https://darloscode.github.io/dashboard){:target="\_blank"}
+
 
     <p align="center">
       <img src="./imagenes/project3.png" alt="Dashboard" width="auto" height="auto">
     </p>
 
-6. **Galería de Fotos**
+6.  **Galería de Fotos**
 
-   - Es una aplicación de Galería de Fotos creada con Java y JavaFX, diseñada para gestionar y visualizar imágenes de manera fácil e interactiva. La aplicación permite a los usuarios crear álbumes, agregar fotos a dichos álbumes, así como borrar fotos.
-   - Tecnologías:
-     - NetBeans: IDE utilizado para desarrollar y depurar la aplicación en Java.
-     - Java: Lenguaje principal del proyecto para manejar la lógica de la aplicación y gestionar las fotos.
-     - JavaFX: Framework que ofrece una interfaz gráfica moderna y amigable para que los usuarios puedan interactuar con la galería.
-   - Estado: Completo
-   - [Repositorio](https://github.com/Darloscode/Project-Photo-Gallery){:target="\_blank"} |
+- Es una aplicación de Galería de Fotos creada con Java y JavaFX, diseñada para gestionar y visualizar imágenes de manera fácil e interactiva. La aplicación permite a los usuarios crear álbumes, agregar fotos a dichos álbumes, así como borrar fotos.
+- Tecnologías:
+  - NetBeans: IDE utilizado para desarrollar y depurar la aplicación en Java.
+  - Java: Lenguaje principal del proyecto para manejar la lógica de la aplicación y gestionar las fotos.
+  - JavaFX: Framework que ofrece una interfaz gráfica moderna y amigable para que los usuarios puedan interactuar con la galería.
+- Estado: Completo
+- [Repositorio](https://github.com/Darloscode/Project-Photo-Gallery){:target="\_blank"} |
 
 ![Galería de fotos](./imagenes/project4.png)
 
