@@ -53,26 +53,21 @@
 
 2. **Aplicación de Contactos**
 
-- Es una aplicación de escritorio desarrollada en Java utilizando JavaFX, diseñada para que cada usuario pueda gestionar su propia lista de contactos de forma sencilla e intuitiva. Para acceder a la aplicación, los usuarios deben registrarse e iniciar sesión. Cada cuenta de usuario cuenta con su propia lista de contactos, implementada mediante una estructura de datos personalizada de listas doblemente enlazadas creada específicamente para este proyecto.
-
-- Tecnologías:
-
-  - Java (JDK): Lenguaje de programación principal utilizado para la lógica de la aplicación.
-  - JavaFX: Framework de interfaz gráfica utilizado para crear una experiencia visual amigable e interactiva.
-  - Listas doblemente enlazadas personalizadas: Estructura de datos implementada manualmente para almacenar y gestionar los contactos de cada usuario.
-  - Herencia en Java: Principio de la programación orientada a objetos aplicado para organizar y reutilizar el código.
-
-- Funcionalidades principales:
-
-  - Registro e inicio de sesión de usuarios con credenciales únicas.
-  - Cada usuario cuenta con su propia lista de contactos independiente.
-  - Creación de nuevos contactos con información como nombre, número de teléfono, dirección, correo electrónico y foto.
-  - Posibilidad de marcar contactos como favoritos para acceso rápido.
-  - Edición y eliminación de contactos existentes.
-  - Interfaz gráfica intuitiva desarrollada con JavaFX para facilitar la navegación y la gestión de la información.
-
-- Estado:
-- [Repositorio](https://github.com/mfalvarezd/Contactos){:target="\_blank"}
+   - Es una aplicación de escritorio desarrollada en Java utilizando JavaFX, diseñada para que cada usuario pueda gestionar su propia lista de contactos de forma sencilla e intuitiva. Para acceder a la aplicación, los usuarios deben registrarse e iniciar sesión. Cada cuenta de usuario cuenta con su propia lista de contactos, implementada mediante una estructura de datos personalizada de listas doblemente enlazadas creada específicamente para este proyecto.
+   - Tecnologías:
+     - Java (JDK): Lenguaje de programación principal utilizado para la lógica de la aplicación.
+     - JavaFX: Framework de interfaz gráfica utilizado para crear una experiencia visual amigable e interactiva.
+     - Listas doblemente enlazadas personalizadas: Estructura de datos implementada manualmente para almacenar y gestionar los contactos de cada usuario.
+     - Herencia en Java: Principio de la programación orientada a objetos aplicado para organizar y reutilizar el código.
+   - Funcionalidades principales:
+     - Registro e inicio de sesión de usuarios con credenciales únicas.
+     - Cada usuario cuenta con su propia lista de contactos independiente.
+     - Creación de nuevos contactos con información como nombre, número de teléfono, dirección, correo electrónico y foto.
+     - Posibilidad de marcar contactos como favoritos para acceso rápido.
+     - Edición y eliminación de contactos existentes.
+     - Interfaz gráfica intuitiva desarrollada con JavaFX para facilitar la navegación y la gestión de la información.
+   - Estado: Completo
+   - [Repositorio](https://github.com/mfalvarezd/Contactos){:target="\_blank"} |
 
 <p align="center">
   <img src="./imagenes/project7a.png" alt="Landing Page" width="auto" height="auto">
@@ -88,20 +83,19 @@
 
 3. **Juego de Tres en Raya con IA**
 
-- Es una aplicación de escritorio desarrollada en Java utilizando JavaFX, diseñada para que el usuario compita contra la máquina en una partida de tres en raya. El sistema utiliza estructuras de datos y algoritmos basados en árboles para simular y analizar todas las posibles jugadas, permitiendo que la máquina seleccione siempre la mejor opción para ganar o evitar la derrota.
-
-- Tecnologías:
-
-  - Java (JDK): Lenguaje de programación principal utilizado para implementar la lógica del juego y la interfaz.
-  - JavaFX: Framework de interfaz gráfica utilizado para crear un entorno visual interactivo donde el usuario pueda jugar de manera intuitiva.
-  - Árboles: Estructura de dato empleada para modelar las posibles jugadas del juego, analizando los movimientos futuros tanto de la máquina como del usuario.
-  - Algoritmos de búsqueda: Utilizados para recorrer el árbol de jugadas y seleccionar el movimiento óptimo.
-
-- Funcionalidades principales:
-  - Interfaz gráfica amigable que muestra el tablero de juego y permite al usuario seleccionar sus movimientos.
-  - Lógica de juego automática que analiza todas las posibilidades y elige la jugada más ventajosa para la máquina.
-  - Árbol de decisiones que modela turnos alternados entre usuario y máquina, evaluando las mejores rutas hacia la victoria.
-  - Partidas rápidas y rejugables, con posibilidad de reiniciar y volver a competir.
+   - Es una aplicación de escritorio desarrollada en Java utilizando JavaFX, diseñada para que el usuario compita contra la máquina en una partida de tres en raya. El sistema utiliza estructuras de datos y algoritmos basados en árboles para simular y analizar todas las posibles jugadas, permitiendo que la máquina seleccione siempre la mejor opción para ganar o evitar la derrota.
+   - Tecnologías:
+     - Java (JDK): Lenguaje de programación principal utilizado para implementar la lógica del juego y la interfaz.
+     - JavaFX: Framework de interfaz gráfica utilizado para crear un entorno visual interactivo donde el usuario pueda jugar de manera intuitiva.
+     - Árboles: Estructura de dato empleada para modelar las posibles jugadas del juego, analizando los movimientos futuros tanto de la máquina como del usuario.
+     - Algoritmos de búsqueda: Utilizados para recorrer el árbol de jugadas y seleccionar el movimiento óptimo.
+   - Funcionalidades principales:
+     - Interfaz gráfica amigable que muestra el tablero de juego y permite al usuario seleccionar sus movimientos.
+     - Lógica de juego automática que analiza todas las posibilidades y elige la jugada más ventajosa para la máquina.
+     - Árbol de decisiones que modela turnos alternados entre usuario y máquina, evaluando las mejores rutas hacia la victoria.
+     - Partidas rápidas y rejugables, con posibilidad de reiniciar y volver a competir.
+   - Estado: Completo
+   - [Repositorio](https://github.com/Darloscode/Tres-en-Raya){:target="\_blank"} |
 
 <p align="center">
   <img src="./imagenes/project8a.png" alt="Landing Page" width="auto" height="auto">
@@ -199,6 +193,22 @@
     <p align="center">
       <img src="./imagenes/project6.png" alt="Dashboard" width="auto" height="auto">
     </p>
+
+9.  **AADDASD**
+
+    - Es una aplicación web desarrollada en React, diseñada para que los pacientes de la Fundación Aspy puedan agendar y gestionar sus citas médicas de forma rápida y sencilla. La plataforma permite a los administradores, secretarios y profesionales de la salud organizar los horarios y mantener un control centralizado de las atenciones, mientras que los pacientes pueden seleccionar el servicio, el profesional y la fecha de su cita de manera intuitiva. Los profesionales pueden generar reportes médicas de las citas.
+    - Tecnologías:
+      - React: Biblioteca de JavaScript utilizada para construir una interfaz de usuario dinámica, modular y responsiva.
+      - Laravel (PHP): Framework backend encargado de gestionar la lógica del servidor, el acceso a la base de datos y las APIs de comunicación con el frontend.
+      - PostgreSQL: Sistema de gestión de bases de datos utilizado para almacenar la información de usuarios, citas y servicios médicos.
+    - Funcionalidades:
+      - Registro e inicio de sesión para pacientes, profesionales y administradores.
+      - Visualización de la disponibilidad de horarios para cada servicio y profesional.
+      - Agendamiento de citas médicas seleccionando servicio, profesional y fecha/hora.
+      - Gestión de citas: seguimiento de estado.
+      - Panel de control para administradores con vista global de todas las citas y usuarios.
+    - Estado: En proceso
+    - [Repositorio](https://github.com/Aspy-Ecuador/app){:target="\_blank"} |
 
 ## Tecnologías y Habilidades 🤖
 
