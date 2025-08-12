@@ -131,7 +131,6 @@
 - Estado: Completo
 - [Repositorio](https://github.com/Darloscode/dashboard){:target="\_blank"} | [Sitio Web](https://darloscode.github.io/dashboard){:target="\_blank"}
 
-
     <p align="center">
       <img src="./imagenes/project3.png" alt="Dashboard" width="auto" height="auto">
     </p>
@@ -206,10 +205,10 @@
     - [Repositorio](https://github.com/Aspy-Ecuador/app){:target="\_blank"} |
 
     <p align="center">
-      <img src="./imagenes/project9a.png" alt="Login y Sign up" width="350" height="auto">
+      <img src="./imagenes/project9a.png" width="auto" height="auto">
     </p>
     <p align="center">
-      <img src="./imagenes/project9b.png" alt="Login y Sign up" width="350" height="auto">
+      <img src="./imagenes/project9b.png" width="auto" height="auto">
     </p>
 
 ## Tecnologías y Habilidades 🤖
